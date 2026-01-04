@@ -1,5 +1,7 @@
 # Automated ETL Pipeline on AWS (S3 → Glue → Redshift)
 
+![Image](https://github.com/user-attachments/assets/1518ca11-274e-46ad-aa8a-efc3d641feae)
+
 ### Project Overview
 This project implements a fully automated, incremental ETL pipeline on AWS to process support ticket and application log data.
 The pipeline is event-driven, scalable, and production-ready, using managed AWS services.
